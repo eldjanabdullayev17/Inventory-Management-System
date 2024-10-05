@@ -1,1 +1,1 @@
-Inventory Management System
+<h1>InventoryManagementSystem</h1>
