@@ -17,11 +17,11 @@ https://github.com/user-attachments/assets/df5b85e4-f05a-46f8-ac55-9a10cd1b0b37
 
 
 ## Installation 
--Clone the repository: git clone `repository_url`
--Open the project in Visual Studio.
--Restore the required NuGet packages.
--Set up the SQL Server database connection string in the configuration file.
--Run the application.
+- Clone the repository: git clone `repository_url`
+- Open the project in Visual Studio.
+- Restore the required NuGet packages.
+- Set up the SQL Server database connection string in the configuration file.
+- Run the application.
 
 
 
