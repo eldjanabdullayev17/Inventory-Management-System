@@ -12,7 +12,7 @@ namespace InventoryManagementSystem.SQL
 {
 	public class SQLCONNECT
 	{
-		public static SqlConnection connection = new SqlConnection(@"Data Source=USER\SQLKODLAR;Initial Catalog=InventoryManagementSystem;Integrated Security=True");
+		public static SqlConnection connection = new SqlConnection(@"Data Source=.\SQLEXPRESS;Initial Catalog=InventoryManagementSystem;Integrated Security=True");
 
 		public static void CheckConnection(SqlConnection sqlConnection)
 		{
